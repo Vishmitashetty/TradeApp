@@ -1,0 +1,14 @@
+c:\Users\vshetty\documents\visual studio 2015\Projects\TradeCST\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+c:\Users\vshetty\documents\visual studio 2015\Projects\TradeCST\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+c:\Users\vshetty\documents\visual studio 2015\Projects\TradeCST\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+c:\Users\vshetty\documents\visual studio 2015\Projects\TradeCST\ConsoleApplication\bin\Debug\EntityFramework.dll
+c:\Users\vshetty\documents\visual studio 2015\Projects\TradeCST\ConsoleApplication\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\vshetty\documents\visual studio 2015\Projects\TradeCST\ConsoleApplication\bin\Debug\TradeCST.dll
+c:\Users\vshetty\documents\visual studio 2015\Projects\TradeCST\ConsoleApplication\bin\Debug\TradeCSTDataModel.dll
+c:\Users\vshetty\documents\visual studio 2015\Projects\TradeCST\ConsoleApplication\bin\Debug\TradeCSTDataModel.pdb
+c:\Users\vshetty\documents\visual studio 2015\Projects\TradeCST\ConsoleApplication\bin\Debug\TradeCST.pdb
+c:\Users\vshetty\documents\visual studio 2015\Projects\TradeCST\ConsoleApplication\bin\Debug\EntityFramework.xml
+c:\Users\vshetty\documents\visual studio 2015\Projects\TradeCST\ConsoleApplication\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\vshetty\documents\visual studio 2015\Projects\TradeCST\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+c:\Users\vshetty\documents\visual studio 2015\Projects\TradeCST\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+c:\Users\vshetty\documents\visual studio 2015\Projects\TradeCST\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
