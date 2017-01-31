@@ -1,0 +1,13 @@
+c:\users\vshetty\documents\visual studio 2015\Projects\WebApiPrac\TradeData\bin\Debug\TradeData.dll.config
+c:\users\vshetty\documents\visual studio 2015\Projects\WebApiPrac\TradeData\bin\Debug\TradeData.dll
+c:\users\vshetty\documents\visual studio 2015\Projects\WebApiPrac\TradeData\bin\Debug\TradeData.pdb
+c:\users\vshetty\documents\visual studio 2015\Projects\WebApiPrac\TradeData\bin\Debug\EntityFramework.dll
+c:\users\vshetty\documents\visual studio 2015\Projects\WebApiPrac\TradeData\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\vshetty\documents\visual studio 2015\Projects\WebApiPrac\TradeData\bin\Debug\EntityFramework.xml
+c:\users\vshetty\documents\visual studio 2015\Projects\WebApiPrac\TradeData\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\vshetty\documents\visual studio 2015\Projects\WebApiPrac\TradeData\obj\Debug\TradeData.dll
+c:\users\vshetty\documents\visual studio 2015\Projects\WebApiPrac\TradeData\obj\Debug\TradeData.pdb
+C:\Users\vshetty\Documents\Visual Studio 2015\Projects\WebApiPrac\TradeData\obj\Debug\TradeData.Migrations.position.resources
+C:\Users\vshetty\Documents\Visual Studio 2015\Projects\WebApiPrac\TradeData\obj\Debug\TradeData.csproj.GenerateResource.Cache
+C:\Users\vshetty\Documents\Visual Studio 2015\Projects\WebApiPrac\TradeData\obj\Debug\TradeData.Migrations.position1.resources
+C:\Users\vshetty\documents\visual studio 2015\Projects\WebApiPrac\TradeData\obj\Debug\TradeData.csprojResolveAssemblyReference.cache

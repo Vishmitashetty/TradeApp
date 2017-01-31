@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<html ng-app="security">
+<head>
+    <title>Security</title>
+    <meta charset="utf-8" />
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+    <script src="Scripts/jquery-1.10.2.js"></script>
+    <script src="Scripts/angular.js"></script>
+    <script src="Scripts/bootstrap.js"></script>
+    <script src="Scripts/myapp.js"></script>
+
+</head>
+<body ng-controller="myapp">
+    <div>
+        <div class="container-fluid">
+            <div class="page-header">
+                <h1>Security Form</h1>
+            </div>
+
+            <div class="well">
+                <form class="form-horizontal" action="" id="secform" name="secform">
+                    <div class="form-group">
+                        <label for="ticker" class="control-label col-sm-2">Ticker:</label>
+                        <div class="col-sm-4">
+                            <input type="text" id="ticker" class="form-control" name="ticker" placeholder="Enter Ticker" data-ng-model="ticker" required />
+                        </div>
+                    </div>
+                    <div class="form-group ">
+                        <label for="cusip" class="control-label col-sm-2">CUSIP:</label>
+                        <div class="col-sm-4">
+                            <input type="text" id="cusip" class="form-control" name="cusip" placeholder=" Enter only 9 Characters" maxlength="9" data-ng-model="cusip" />
+                        </div>
+                    </div>
+
+
+                    <div class="form-group">
+                        <label for="isin" class="control-label col-sm-2">ISIN:</label>
+                        <div class="col-sm-4">
+                            <input type="text" id="isin" class="form-control" name="isin" placeholder=" Enter only 12 characters" maxlength="12" data-ng-model="isin" />
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="sedol" class="control-label col-sm-2">SEDOL:</label>
+                        <div class="col-sm-4">
+                            <input type="text" id="sedol" class="form-control" name="sedol" placeholder=" Enter only 7 characters" maxlength="7" data-ng-model="sedol" />
+                        </div>
+                    </div>
+
+                    <hr />
+                    <div class="form-group">
+                        <div class="col-sm-10 col-sm-push-2 ">
+                            <!-- <input type="button" id="add" value="Add" class="btn btn-primary" onclick="Javascript:addRow()">-->
+                            <button class="btn btn-primary" ng-click="add()" type="button">Add</button>
+                        </div>
+                    </div>
+
+                </form>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>

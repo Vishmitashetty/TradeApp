@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html ng-app="result">
+<head>
+    <title>Trade</title>
+    <meta charset="utf-8" />
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+    <script src="Scripts/bootstrap.js"></script>
+    <script src="Scripts/jquery-1.10.2.js"></script>
+    <script src="Scripts/angular.js"></script>
+    <script src="Scripts/position.js"></script>
+
+</head>
+<body ng-controller="position">
+    <table class="table table-striped table-hover">
+        <tr>
+            <th>Ticker</th>
+            <th>CUSIP</th>
+            <th>ISIN</th>
+            <th>SEDOL</th>
+            <th>Position</th>
+        </tr>
+        <tr ng-repeat="(x,y) in datas">
+            <td>{{y.Ticker}}</td>
+            <td>{{y.CUSIP}}</td>
+            <td>{{y.ISIN}}</td>
+            <td>{{y.SEDOL}}</td>
+            <td>{{y.position}}</td>
+
+        </tr>
+    </table>
+</body>
+</html>
